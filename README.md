@@ -13,6 +13,11 @@ The project reads analog ECG data via the Bio Amp EXG Pill connected to an Ardui
 ## Picture Overview
 ![ECG Signal](images/pulse.jpg)
 
+## Graph Overview
+
+![Graph ECG Signal](images/graph.png)
+
+
 ## Hardware Requirements
 
 - Arduino (any model with an analog input pin, e.g., A0).
