@@ -10,6 +10,8 @@ The project reads analog ECG data via the Bio Amp EXG Pill connected to an Ardui
 - ASK Modulation: Amplitude Shift Keying modulated signal.
 - FSK Modulation: Frequency Shift Keying modulated signal.
 
+![ECG Signal](images/pulse.png)
+
 ## Hardware Requirements
 
 - Arduino (any model with an analog input pin, e.g., A0).
